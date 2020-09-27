@@ -1,0 +1,4 @@
+#忽略query.css文件
+query.css
+#忽略所有test目录下的文件
+test/
